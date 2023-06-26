@@ -4,11 +4,10 @@
 ![licence](https://img.shields.io/badge/language-Java-brightgreen.svg?style=flat-square)
 ![license](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)
 
-Implements the Time Difference of Arrival (TDoA) Multilateration algorithm on Java .
+Library that implements the Time Difference of Arrival (TDoA) Multilateration algorithm on Java .
 
 This project is provided "AS IS", no warranty, no responsibilities, no more documentation that the one included in this
 repository.
-
 
 ## What is Time Difference of Arrival (TDoA)?
 
