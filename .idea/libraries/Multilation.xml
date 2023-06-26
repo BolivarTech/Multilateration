@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Multilation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Multilation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../BTUtils/dist/BTUtils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
